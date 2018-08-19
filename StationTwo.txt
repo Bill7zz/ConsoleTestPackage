@@ -4,3 +4,5 @@ Commit Two
 ----------create new branch on station Two
 
 commit One on NewBranchTwo
+commit Two on NewBranchTwo
+commit Three on NewBranchTwo
